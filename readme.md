@@ -1,3 +1,7 @@
+This is a fork of https://github.com/TehShrike/world-english-bible
+I am using it to keep track of different translations of the original text that make things clearer to the reader.
+
+Original readme below:
 A folder full of JSON files containing a programmatic version of the [World English Bible](http://ebible.org/web/).
 
 Besides the verse text, contains all of the metadata needed to print the text with proper formatting.
